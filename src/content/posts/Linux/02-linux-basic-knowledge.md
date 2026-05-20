@@ -1,12 +1,12 @@
 ---
-title: 1.Linux 基础知识笔记
-published: 2026.5.20
-description: 
-tags: []
+title: "2.Linux 基础知识笔记"
+slug: 02-linux-basic-knowledge
+published: 2026-05-20
+description: "Linux 基础知识笔记，记录文件类型、系统目录结构等基础内容。"
+tags: ["Linux", "基础", "文件系统"]
 category: Linux
 draft: false
 ---
-
 ---
 
 ## 📁 文件颜色与类型
@@ -193,3 +193,4 @@ draft: false
 > 💬 小贴士：
 > - 使用 `\` 可对空格、`*`、`$` 等进行转义避免误解释。
 > - 推荐优先使用 `$(...)` 替代反引号 `` `...` `` 进行命令替换。
+

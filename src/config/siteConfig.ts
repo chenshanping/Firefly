@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "栖于云上，记录代码与运维的日常",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://xiyun.qilincsp.cn",
 
 	// 站点描述
 	description:
