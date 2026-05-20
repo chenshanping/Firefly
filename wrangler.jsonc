@@ -1,0 +1,8 @@
+{
+	"name": "my-blog",
+	"compatibility_date": "2026-05-20",
+	"assets": {
+		"directory": "./dist",
+		"not_found_handling": "404-page"
+	}
+}
